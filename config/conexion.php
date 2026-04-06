@@ -3,7 +3,7 @@
 
 // Definimos las credenciales de la base de datos
 $host = 'localhost';
-$dbname = 'empresa_limpieza'; // Asegúrate de que tu BD se llame así en phpMyAdmin
+$dbname = 'limpieza_app'; // Asegúrate de que tu BD se llame así en phpMyAdmin
 $username = 'root'; // Usuario por defecto en XAMPP/WAMP
 $password = ''; // Contraseña por defecto (vacía en XAMPP)
 
